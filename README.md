@@ -8,7 +8,6 @@ Run the code Adaboost.R to execute the program.
 
 The following packages are required to run the program:
 <ul>
-  <li>RColorBrewer</li>
 <li>rpart</li>
 <li>caret</li>
 <li>lattice</li>
