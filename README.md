@@ -1,6 +1,6 @@
 # Implementation-of-Adaboost-Classifier
 
-Through this project, the Adaboost Classifier algorithms is implemented on the ionosphere dataset in R language:
+Through this project, the Adaboost Classifier algorithms is implemented on the ionosphere dataset in R language.
 
 Run the code Adaboost.R to execute the program.
 
